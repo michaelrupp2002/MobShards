@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+
+    {
+      "item": "mm:divorcium_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "mm:divorcium",
+        "count": 9
+    }
+}

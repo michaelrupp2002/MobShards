@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "IDB",
+        "IDB",
+        "IDB"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "mm:divorcium"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mm:divorcium_block",
+        "count": 1
+    }
+}
